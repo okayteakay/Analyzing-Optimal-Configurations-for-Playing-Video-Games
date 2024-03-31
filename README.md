@@ -13,7 +13,7 @@ Since the original dataset is too big to upload on GitHub, you can find the data
 ## Methodology
 We started by cleaning the dataset to ensure it was error-free and organized. Then, we conducted data exploration to identify trends and patterns in the data. During this process, we discovered a unique relationship between three variables: die size, process size, and transistors. This led us to explore Moore’s Law, a theory that states that the number of transistors on a microchip will double approximately every two years.
 
-To test the validity of Moore’s Law, we performed a hypothesis test, with the null hypothesis being that Moore’s Law is still accurate today. After analyzing the data, we were unable to reject the null hypothesis and thus concluded that Moore’s Law remains true. Using this information, we were able to impute missing values for transistor counts using Moore’s Law.
+To test the validity of Moore’s Law, we performed hypothesis testing, with the null hypothesis being that Moore’s Law is still accurate today. After analyzing the data, we were unable to reject the null hypothesis and thus concluded that Moore’s Law remains true. Using this information, we were able to impute missing values for transistor counts using Moore’s Law.
 
 With the final dataset complete, we then conducted predictive analyses to further understand the optimal conditions for video game playing. We also pursued the prediction of game settings that each configuration could be classified into. Our cleaned dataset also allowed us to cluster our dataset based solely on game features of resolution, settings, and FPS.
 
