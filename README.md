@@ -3,7 +3,7 @@
 ## Introduction
 First-person shooter (FPS) games have become increasingly popular in recent years due to the growth of the video game industry, technological advancements, and the rise of e-sports. With the increased accessibility of high-quality hardware and software, players can now play games with high frame rates and improved graphics. In this project, we aimed to understand the optimal conditions for playing video games by analyzing a dataset from OpenML.
 
-View the final report here [DSGA1001_Capstone_report.pdf](report/DSGA1001_Capstone_report.pdf)
+View the final report here [DSGA1001_Capstone_report.pdf](/DSGA1001_Capstone_report.pdf)
 
 ## Dataset
 The dataset we used is a mix of laptop and desktop CPU/GPU specifications. An ideal dataset would have an extra column specifying if it is a laptop or a desktop. Additionally, if we had the price of each component, we could have analyzed the price for each specification of FPS. However, this information was not available, and we had to work with the given dataset.
